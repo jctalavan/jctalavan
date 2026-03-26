@@ -1,29 +1,29 @@
 <div align="center">
 
-[English](README.en.md)
+[Español](README.md)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=jctalavan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=750&lines=Si+nos+equivoc%C3%A1semos...+%C2%BFc%C3%B3mo+mejorar%C3%ADamos%3F;Papa+de+Manuela+y+Gael)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=750&lines=If+we+made+mistakes...+how+would+we+improve%3F;Dad+of+Manuela+and+Gael)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Sobre mi
+## About Me
 
 ```yaml
-nombre:       "jctalavan"
-rol:          "Fullstack Developer"
-experiencia:  "14 años"
-enfoque:      ["Backend .NET", "Frontend", "Arquitectura Limpia", "APIs"]
-deportes:     ["Ciclismo", "Futbol", "Baloncesto", "Padel"]
-estado:       "Siempre aprendiendo · Siempre construyendo · Siempre en movimiento"
+name:         "jctalavan"
+role:         "Fullstack Developer"
+experience:   "14 years"
+focus:        ["Backend .NET", "Frontend", "Clean Architecture", "APIs"]
+sports:       ["Cycling", "Football", "Basketball", "Padel"]
+status:       "Always learning · Always building · Always moving"
 ```
 
 ---
 
-## Stack Tecnologico
+## Tech Stack
 
 <div align="center">
 
@@ -39,7 +39,7 @@ estado:       "Siempre aprendiendo · Siempre construyendo · Siempre en movimie
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### DevOps & Herramientas
+### DevOps & Tools
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,7 +50,7 @@ estado:       "Siempre aprendiendo · Siempre construyendo · Siempre en movimie
 
 ---
 
-## Estadisticas de GitHub
+## GitHub Stats
 
 <div align="center">
 
@@ -67,20 +67,20 @@ estado:       "Siempre aprendiendo · Siempre construyendo · Siempre en movimie
 
 ---
 
-## Mas alla del codigo
+## Beyond the Code
 
-> "La misma disciplina que te ayuda a superar un duro entrenamiento es la que te ayuda a superar un bug complicado."
+> "The same discipline that gets you through a tough workout is what gets you through a tough bug."
 
-Cuando no estoy escribiendo codigo, me encontraras:
+When I am not writing code, you will find me:
 
-- **Ciclismo** — pedalear despeja la mente, un kilometro a la vez
-- **Futbol** — trabajo en equipo en el campo, trabajo en equipo en el repositorio
-- **Baloncesto** — precision y colaboracion
-- **Padel** — diversión y competicion
+- **Cycling** — clearing my mind, one kilometer at a time
+- **Football** — teamwork on the pitch, teamwork in the repo
+- **Basketball** — precision and collaboration
+- **Padel** — fun and competition
 
 ---
 
-## Conectemos
+## Let's Connect
 
 <div align="center">
 
