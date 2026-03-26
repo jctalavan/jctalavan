@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=jctalavan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=750&lines=Si+nos+equivoc%C3%A1semos...+%C2%BFc%C3%B3mo+mejorar%C3%ADamos%3F;Papa+de+Manuela+y+Gael)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=750&lines=Si+no+nos+equivoc%C3%A1semos...+%C2%BFc%C3%B3mo+mejorar%C3%ADamos%3F;Papa+de+Manuela+y+Gael)](https://git.io/typing-svg)
 
 </div>
 
