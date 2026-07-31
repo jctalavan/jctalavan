@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=jctalavan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=750&lines=If+we+didn%27t+make+mistakes...+how+would+we+improve%3F;Dad+of+Manuela+and+Gael)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=750&lines=Dad+of+Manuela+and+Gael)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,12 +13,12 @@
 ## About Me
 
 ```yaml
-name:         "jctalavan"
+name:         "Juan Carlos Talaván Canelo"
+alias:        "jctalavan"
 role:         "Fullstack Developer"
 experience:   "14 years"
-focus:        ["Backend .NET", "Frontend", "Clean Architecture", "APIs"]
-sports:       ["Cycling", "Football", "Basketball", "Padel"]
-status:       "Always learning · Always building · Always moving"
+focus:        "Solve any problem the best way I know"
+others:       "My family, sports, books, cinema...
 ```
 
 ---
@@ -64,19 +64,6 @@ status:       "Always learning · Always building · Always moving"
 [![GitHub Streak](https://streak-stats.demolab.com?user=jctalavan&theme=github-dark-blue&border=1f6feb&ring=388bfd&fire=ff6b35&currStreakLabel=388bfd)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## Beyond the Code
-
-> "The same discipline that gets you through a tough workout is what gets you through a tough bug."
-
-When I am not writing code, you will find me:
-
-- **Cycling** — clearing my mind, one kilometer at a time
-- **Football** — teamwork on the pitch, teamwork in the repo
-- **Basketball** — precision and collaboration
-- **Padel** — fun and competition
 
 ---
 
