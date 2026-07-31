@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=200&section=header&text=jctalavan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=750&lines=Si+no+nos+equivoc%C3%A1semos...+%C2%BFc%C3%B3mo+mejorar%C3%ADamos%3F;Papa+de+Manuela+y+Gael)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=388BFD&center=true&vCenter=true&width=750&lines=Papá+de+Manuela+y+Gael)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,12 +13,12 @@
 ## Sobre mi
 
 ```yaml
-nombre:       "jctalavan"
+nombre:       "Juan Carlos Talaván Canelo"
+alias:        "jctalavan"
 rol:          "Fullstack Developer"
 experiencia:  "14 años"
-enfoque:      ["Backend .NET", "Frontend", "Arquitectura Limpia", "APIs"]
-deportes:     ["Ciclismo", "Futbol", "Baloncesto", "Padel"]
-estado:       "Siempre aprendiendo · Siempre construyendo · Siempre en movimiento"
+enfoque:      "Resolver cualquier problema que se me plantee de la mejor forma que conozco"
+otros:        "Soy muy básico: mi familia, deportes, leer, cine... in that order"
 ```
 
 ---
@@ -64,19 +64,6 @@ estado:       "Siempre aprendiendo · Siempre construyendo · Siempre en movimie
 [![GitHub Streak](https://streak-stats.demolab.com?user=jctalavan&theme=github-dark-blue&border=1f6feb&ring=388bfd&fire=ff6b35&currStreakLabel=388bfd)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## Mas alla del codigo
-
-> "La misma disciplina que te ayuda a superar un duro entrenamiento es la que te ayuda a superar un bug complicado."
-
-Cuando no estoy escribiendo codigo, me encontraras:
-
-- **Ciclismo** — pedalear despeja la mente, un kilometro a la vez
-- **Futbol** — trabajo en equipo en el campo, trabajo en equipo en el repositorio
-- **Baloncesto** — precision y colaboracion
-- **Padel** — diversión y competicion
 
 ---
 
